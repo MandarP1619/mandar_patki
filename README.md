@@ -41,3 +41,20 @@ git clone https://github.com/MandarP1619/Experience-Work-Website.git
 cd Experience-Work-Website
 npm install
 npm run dev
+
+Purpose
+This project was built to:
+Present my professional experience in a more engaging format
+Combine finance, analytics, and technical skills into one platform
+Create a portfolio that stands out beyond traditional resumes
+
+Future Improvements
+Deploy live version (Vercel)
+Add project-specific case study pages
+Integrate real data visualizations
+Improve animations and transitions
+Add contact / outreach functionality
+
+Author
+Mandar Patki
+LinkedIn: https://www.linkedin.com/
