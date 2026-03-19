@@ -26,3 +26,18 @@ This project is a modern, interactive portfolio designed with a streaming-style 
 - Framer Motion
 
 ## Project Structure
+src/
+App.jsx # Main application logic
+components/ # UI components (Navbar, Hero, Rows, Tiles, Modal)
+public/
+Resume PDFs
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MandarP1619/Experience-Work-Website.git
+cd Experience-Work-Website
+npm install
+npm run dev
