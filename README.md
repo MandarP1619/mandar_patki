@@ -2,6 +2,9 @@
 
 A Netflix-inspired personal portfolio website built to showcase my experience across financial analysis, data analytics, and systems-focused problem solving.
 
+## URL
+https://mandar-patki.vercel.app/
+
 ## Overview
 
 This project is a modern, interactive portfolio designed with a streaming-style UI. It highlights my work, professional experience, and core skills in a visually engaging way while maintaining a clean and structured user experience.
