@@ -12,11 +12,13 @@ const featuredRows = [
         image:
           "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
         details:
-          "Worked on predictive modeling for drone flight path forecasting using telemetry and time-series data. The project focused on evaluating prediction quality, improving trajectory estimates, and presenting results in a clearer analytical format.",
+          "Developed predictive models to forecast drone flight trajectories using time-series telemetry data, focusing on improving accuracy, stability, and real-time applicability. Evaluated multiple modeling approaches and optimized performance for practical deployment and visualization.",
         bullets: [
-          "Worked with time-series and telemetry-style datasets",
-          "Explored predictive modeling approaches for path estimation",
-          "Focused on clearer analysis and model evaluation",
+          "Built and compared predictive models including Kalman Filters, Random Forest, and LSTM networks for trajectory estimation.",
+          "Processed and analyzed time-series telemetry data (position, velocity, directional signals) to improve prediction accuracy.",
+          "Designed a real-time prediction pipeline to simulate and evaluate model performance under dynamic conditions.",
+          "Conducted model validation and performance benchmarking using error metrics and scenario-based testing.",
+          "Translated model outputs into interactive 3D visualizations for clearer interpretation of predicted flight paths",
         ],
         tools: ["Python", "Modeling", "Analytics"],
       },
@@ -26,13 +28,14 @@ const featuredRows = [
         image:
           "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=80",
         details:
-          "Built forecasting-oriented analysis and reporting workflows to support planning and decision-making. This work focused on converting data into forward-looking insight.",
+          "Built forecasting and financial analysis workflows to support planning, scenario modeling, and decision-making. Focused on translating raw data into forward-looking insights through structured modeling, performance tracking, and data-driven analysis.",
         bullets: [
-          "Developed forecasting logic and performance tracking",
-          "Created structured reporting outputs",
-          "Improved decision support through cleaner analysis",
+          "Developed forecasting models to project performance trends using historical data and key business drivers.",
+          "Designed scenario and sensitivity analyses to evaluate financial outcomes under different assumptions.",
+          "Performed variance and trend analysis to improve forecast reliability and business understanding.",
+          "Translated analysis into actionable insights to support planning and operational decision-making."
         ],
-        tools: ["Excel", "Python", "Reporting"],
+        tools: ["Excel", "Python", "Financial Modeling", "Reporting"],
       },
       {
         title: "Financial Reporting",
@@ -40,13 +43,14 @@ const featuredRows = [
         image:
           "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=80",
         details:
-          "Built and supported dashboards, KPI summaries, and structured reporting to improve visibility into business performance and help stakeholders make faster decisions.",
+          "Built and automated financial reporting processes to improve visibility into business performance and enable faster, data-driven decision-making. Focused on transforming raw operational data into structured, actionable reporting for leadership.",
         bullets: [
-          "Tracked KPIs and recurring performance metrics",
-          "Supported management reporting",
-          "Improved reporting clarity and speed",
+          "Developed and maintained financial reporting workflows to track business performance across multiple units.",
+          "Designed KPI tracking frameworks to monitor key drivers such as revenue, cost, and operational efficiency.",
+          "Automated recurring reporting processes using Excel, SQL, and BI tools, reducing manual effort and turnaround time.",
+          "Partnered with stakeholders to refine reporting requirements and improve clarity and usability of insights.",
         ],
-        tools: ["Excel", "Power BI", "SQL"],
+        tools: ["Excel", "Power BI", "SQL", "Reporting", "Data Analysis"],
       },
       {
         title: "Process Improvement",
@@ -54,11 +58,12 @@ const featuredRows = [
         image:
           "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&q=80",
         details:
-          "Worked on process improvement and reporting efficiency by standardizing workflows, investigating issues, and reducing manual friction in recurring reporting tasks.",
+          "Improved financial reporting efficiency by standardizing workflows, resolving data inconsistencies, and reducing manual processes. Focused on building more reliable, scalable reporting systems to support faster and more accurate decision-making.",
         bullets: [
-          "Standardized recurring reporting workflows",
-          "Investigated system and data issues",
-          "Reduced manual work and improved consistency",
+          "Standardized reporting workflows across recurring processes to improve consistency and reduce errors.",
+          "Investigated and resolved data discrepancies across systems, improving data accuracy and reliability.",
+          "Automated manual processes within reporting workflows, reducing turnaround time and operational friction.",
+          "Improved data flow and reporting structure to enable more efficient analysis and decision support.",
         ],
         tools: ["Excel", "Systems", "Process Improvement"],
       },
